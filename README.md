@@ -9,3 +9,5 @@
 5. 选择一个字母两次时进行提示
 6. 赢或者输时弹窗提示
 7. 重玩按钮重置游戏
+
+展示地址：https://doudou673.github.io/Hangman-Game/
